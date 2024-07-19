@@ -6,3 +6,7 @@ So now im just adding something to this file as an example of an edit, adding to
 Ok so now i'm hoping to actually be able to change something and demonstrate that i can actually use Github for something useful.
 
 Ok so can i change even more and see if i can commit it to the main branch.
+
+Ok so this is just another test to make a branch, then make some changes then commit those changes and then merge them with Master again.
+
+
